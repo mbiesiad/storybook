@@ -63,6 +63,10 @@ Here are some featured examples that you can reference to see how Storybook work
 
 Storybook comes with a lot of [addons](https://storybook.js.org/addons/introduction/) for component design, documentation, testing, interactivity, and so on. Storybook's API makes it possible to configure and extend in various ways. It has even been extended to support React Native development for mobile.
 
+## Translations
+
+- [Polish](https://github.com/mbiesiad/storybook/tree/pl_PL)
+
 ## Table of contents
 
 - 🚀[Getting Started](#getting-started)
